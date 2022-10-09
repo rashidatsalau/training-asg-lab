@@ -1,4 +1,13 @@
-# training-asg-lab
+### training-asg-lab
+
+# Context
+
+This project showed a built demo of Loadbalancer and Autoscaling group in AWS. Some of the resouces used are:
+* Security Groups for LB and Servers
+* Launch Template
+* Target Groups
+* Loadbalancer
+* Loadbalancer Listener
 
 <!-- BEGIN_TF_DOCS -->
 ## Requirements
